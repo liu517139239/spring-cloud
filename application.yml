@@ -1,5 +1,1 @@
-server:
-  port: 12345
-spring:
-  application:
-    name: color-eureks-provide
+lucky-word: mmb
